@@ -33,7 +33,8 @@ use Symfony\Component\EventDispatcher\EventDispatcherInterface;
  *   description = @Translation("Uses entity browser to select entities."),
  *   multiple_values = TRUE,
  *   field_types = {
- *     "entity_reference"
+ *     "entity_reference",
+ *     "image"
  *   }
  * )
  */
